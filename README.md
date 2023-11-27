@@ -1,4 +1,5 @@
 # Netflix
 
-- Login Page
-- Hello
+- Login Page and Authetication
+- Routing, with restricted route
+-
